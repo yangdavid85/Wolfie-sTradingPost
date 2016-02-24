@@ -2,7 +2,9 @@
 
 ##Problem Statement
 -----------------
-Having a site where Madison College Students can login and post items for sale or trade.
+Create a site where Madison College Students can post items for sale, trade, carpooling, roommates wanted and many other things.
+Students usually post thier want/unwanted items on the bulletins around the school. Having access to a page where you could post 
+anything they'd want on would be easier for students to search for also.
 
 ##Project Technologies/Techniques
 -------------------------------
